@@ -1,0 +1,121 @@
+{
+  "question": [
+    {
+      "question": "hey",
+      "answer": "Hello"
+    },
+    {
+      "question": "how are you",
+      "answer": "Great , what about you"
+    },
+    {
+      "question": "I am good",
+      "answer": "thats great"
+    },
+    {
+      "question": "Which rules govern pension and gratuity to the employees retiring from Central Government Civil Departments.",
+      "answer": "Pension and gratuity of the employees retiring from Central Government Departments is regulated by the Central Civil Services (Pension) Rules, 1972. There are separate rules regarding pension and gratuity of Railway employees and Defence personnel."
+    },
+    {
+      "question": "Is the date of voluntary retirement treated as duty?",
+      "answer": "Yes, the date of voluntary retirement is treated as duty (Rule 5)."
+    },
+    {
+      "question": "Who is eligible for pension?",
+      "answer": "A Govt. servant appointed in a pensionable establishment on or before 31.12.2003 and retires from Government service with a qualifying service of 10 years or more is eligible for pension (Rule 2, 49)."
+    },
+    {
+      "question": "How is pension calculated?",
+      "answer": "W.e.f. 1.1.2006, pension is calculated @ 50% of emoluments (last pay) or average emoluments (for last 10 months), whichever is more beneficial to the retiring Govt. servant. (Rule 49)."
+    },
+    {
+      "question": "What happens to the departmental proceedings instituted against a Govt. servant during service and pending at the time of retirement? Can pension/gratuity be paid to a retiring Govt. servant if Departmental/Judicial proceeding are pending against him at the time of retirement?",
+      "answer": "Department proceedings pending at the time of retirement are deemed to be the proceedings under Rule 9 and shall be continued and concluded by the same disciplinary authority and in the same manner. Thereafter, authority will submit a report recording its finding to the President. In such cases, only provisional pension is paid and gratuity is withheld till the conclusion of departmental proceedings and issue of final orders thereon by the competent authority."
+    },
+    {
+      "question": "Can Departmental proceedings be instituted after retirement?",
+      "answer": "Departmental proceeding can be instituted after retirement subject to following conditions:- (a) Sanction of the President shall be obtained before instituting such proceedings; (b) The proceedings shall not be in respect of any event which took place more than 4 years such institution (c) Proceedings shall be conducted by such authority and in such place or the President may direct and in accordance with rules applicable to departmental proceedings in which an order of dismissal from service could be made in relation to the Govt. servant during his service.;"
+    },
+    {
+      "question": "How do I enroll in the government employee health insurance program?",
+      "answer": "To enroll in the government employee health insurance program, visit the HR department or the official website of the health insurance provider for enrollment instructions."
+    },
+    {
+      "question": "What are the retirement benefits for government employees?",
+      "answer": "Government employees are eligible for retirement benefits, including a pension plan, 401(k) or similar savings plan, and Social Security benefits. Specifics may vary by agency."
+    },
+    {
+      "question": "How can I update my contact information with the government agency?",
+      "answer": "Contact your agency's HR department to update your contact information to ensure you receive important notifications."
+    },
+    {
+      "question": "What is the process for applying for paid leave as a government employee?",
+      "answer": "To apply for paid leave, submit a leave request form to your supervisor or HR department, specifying leave type, dates, and the reason."
+    },
+    {
+      "question": "How do I access my government employee pay stubs online?",
+      "answer": "Access your pay stubs online through your agency's employee portal or payroll system by logging in with your credentials."
+    },
+    {
+      "question": "What is the process for reporting workplace harassment or discrimination?",
+      "answer": "Report workplace harassment or discrimination immediately to your agency's HR department, following established reporting procedures and policies."
+    },
+    {
+      "question": "Where can I find information about government employee training programs?",
+      "answer": "Information on government employee training programs can typically be found on your agency's intranet or through HR resources."
+    },
+    {
+      "question": "How do I request a transfer to another government department?",
+      "answer": "Requesting a transfer involves contacting HR and expressing your interest. The process may vary depending on agency policies."
+    },
+    {
+      "question": "What is the government employee dress code?",
+      "answer": "The dress code for government employees may vary by agency. Refer to your agency's handbook or HR for specific guidelines."
+    },
+    {
+      "question": "How are government employee salaries determined?",
+      "answer": "Government employee salaries are typically determined by a combination of factors, including your position, experience, and agency policies."
+    },
+    {
+      "question": "Can government employees work remotely?",
+      "answer": "Remote work policies may vary by agency and position. Consult your supervisor or HR for guidance on remote work options."
+    },
+    {
+      "question": "What are the benefits of government employee unions?",
+      "answer": "Government employee unions can provide collective bargaining, job protection, and advocacy for employee rights and benefits."
+    },
+    {
+      "question": "How do I file a complaint about my government supervisor?",
+      "answer": "Filing a complaint about a supervisor typically involves following your agency's grievance procedure, which may include HR or a higher authority."
+    },
+    {
+      "question": "How can government employees access their tax documents (W-2, 1099, etc.)?",
+      "answer": "Government employees can access tax documents through their agency's payroll or HR department, usually through an online portal."
+    },
+    {
+      "question": "What are the options for childcare services for government employees?",
+      "answer": "Government employees may have access to childcare services through their agency's benefits program or local partnerships."
+    },
+    {
+      "question": "How can I apply for government employee loan forgiveness programs?",
+      "answer": "To apply for loan forgiveness programs, check if your agency offers such programs and follow their specific application procedures."
+    },
+    {
+      "question": "What is the process for requesting a leave of absence without pay?",
+      "answer": "Requesting unpaid leave involves submitting a request to your supervisor or HR department, outlining the dates and reasons for the leave."
+    },
+    {
+      "question": "How can government employees access training and development resources?",
+      "answer": "Government employees can access training and development resources through agency-sponsored programs, online courses, and workshops."
+    },
+    {
+      "question": "What is the procedure for reporting workplace safety concerns?",
+      "answer": "Report workplace safety concerns to your supervisor, HR, or your agency's safety officer. Follow safety protocols and procedures as necessary."
+    },
+    {
+      "question": "How do I calculate my government employee retirement benefits?",
+      "answer": "Retirement benefits calculations depend on various factors, including your years of service, salary history, and the retirement plan in place. Consult HR or use online calculators for estimates."
+    }
+
+  ]
+}
